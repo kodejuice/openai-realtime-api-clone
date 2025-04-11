@@ -1,4 +1,4 @@
-> This repo fixes a small issue in the `@streamio/openai-realtime-api` node package that prevented using a custom OpenAI model for the stream call
+> This repo fixes a small issue in the `@streamio/openai-realtime-api` node package that prevented using a custom OpenAI realtime model for the stream call
 
 ----
 
